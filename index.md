@@ -2,7 +2,7 @@
 # Mohan Kishore Abburi – Technical Solutions Architect  
 *End-to-end Java & AI-driven architectures for mission-critical payments & fraud systems*
 
-> 🌎 **O’Fallon, MO, USA**  
+> **O’Fallon, MO, USA**  
 > 📞 +1-636-312-5424 | ✉️ abburi.mohan@gmail.com  
 > [LinkedIn](https://linkedin.com/in/mohan-abburi) | [GitHub](https://github.com/mohan-abburi)
 
